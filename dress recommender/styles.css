@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+#wardrobe {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dress-card {
+    margin: 10px;
+    width: 200px;
+}
+
+.dress-card img {
+    width: 100%;
+    height: auto;
+}
